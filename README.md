@@ -6,7 +6,7 @@
 ### Data Source: MSSQL SERVER 
 
 
-## Problem Statement:
+## Problem Statement: The goal of this project is to analyze insurance data and develop an interactive Power BI dashboard that provides insights into customer demographics, policy status, claim amounts, and overall insurance performance. The solution helps stakeholders monitor key metrics, identify trends, and make informed business decisions through data-driven analysis.
 
 
 ### Steps followed:
