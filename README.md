@@ -22,5 +22,8 @@ The goal of this project is to analyze insurance data and develop an interactive
 - Step 7: Implemented a conditional column in Power Query to segment customers into age groups: Young (25 years and below), Young Adult (26 to 49 years), and Elder (50 years and above), enabling age-based analysis and reporting.
 - Step 8: Designed a line chart to illustrate claim amounts by age group on the report dashboard, facilitating demographic-based claims analysis and trend identification.
 - Step 9: Added a conditional column to determine the policy status (Active or Inactive) based on the policy end date criteria, as shown in the figure.
+
+
+
 - Step 10: Added a donut chart on the first report page to visualize the distribution of policies by status, highlighting the count of Active and Inactive policies.
 - Step 11:
