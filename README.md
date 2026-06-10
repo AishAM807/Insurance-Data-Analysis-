@@ -23,7 +23,7 @@ The goal of this project is to analyze insurance data and develop an interactive
 - Step 8: Designed a line chart to illustrate claim amounts by age group on the report dashboard, facilitating demographic-based claims analysis and trend identification.
 - Step 9: Added a conditional column to determine the policy status (Active or Inactive) based on the policy end date criteria, as shown in the figure.
 
-
+<img width="922" height="417" alt="Image" src="https://github.com/user-attachments/assets/5c92865e-5803-4659-b627-de1d107531d8" />
 
 - Step 10: Added a donut chart on the first report page to visualize the distribution of policies by status, highlighting the count of Active and Inactive policies.
 - Step 11:
