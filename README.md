@@ -30,3 +30,5 @@ The goal of this project is to analyze insurance data and develop an interactive
 - Step 12: Implemented Row-Level Security (RLS) based on Policy Type to ensure users can access and view only the data relevant to their assigned policy categories.
 
 
+<img width="973" height="497" alt="Image" src="https://github.com/user-attachments/assets/0c4c9644-4b4f-46d3-a6ab-e477609cc816" />
+<img width="975" height="549" alt="Image" src="https://github.com/user-attachments/assets/f3df2117-cfba-4a5b-ab3f-517b5d61db22" />
