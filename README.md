@@ -29,10 +29,14 @@ The goal of this project is to analyze insurance data and develop an interactive
 
 # Report Snapshot (Power BI DESKTOP)
 
+<img width="1060" height="610" alt="Image" src="https://github.com/user-attachments/assets/a9f7433e-d6cc-4ac8-9f34-6f9039aba217" />
+
+
 - Step 11: Designed a second report page with a detailed table visualization and configured drill-through functionality, allowing users to navigate and filter records based on Policy Type.
 - Step 12: Implemented Row-Level Security (RLS) based on Policy Type to ensure users can access and view only the data relevant to their assigned policy categories.
 
-  
+
+  <img width="961" height="496" alt="Image" src="https://github.com/user-attachments/assets/928d28d8-0762-4991-ba7b-f89efc47b240" />
 
 
  # Report Snapshot (Power BI DESKTOP)
