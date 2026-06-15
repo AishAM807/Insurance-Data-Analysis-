@@ -26,9 +26,16 @@ The goal of this project is to analyze insurance data and develop an interactive
 <img width="922" height="417" alt="Image" src="https://github.com/user-attachments/assets/5c92865e-5803-4659-b627-de1d107531d8" />
 
 - Step 10: Added a donut chart on the first report page to visualize the distribution of policies by status, highlighting the count of Active and Inactive policies.
+
+# Report Snapshot (Power BI DESKTOP)
+
 - Step 11: Designed a second report page with a detailed table visualization and configured drill-through functionality, allowing users to navigate and filter records based on Policy Type.
 - Step 12: Implemented Row-Level Security (RLS) based on Policy Type to ensure users can access and view only the data relevant to their assigned policy categories.
 
+  
+<img width="975" height="549" alt="Image" src="https://github.com/user-attachments/assets/f3df2117-cfba-4a5b-ab3f-517b5d61db22" />
+
+ # Report Snapshot (Power BI DESKTOP)
 
 <img width="973" height="497" alt="Image" src="https://github.com/user-attachments/assets/0c4c9644-4b4f-46d3-a6ab-e477609cc816" />
-<img width="975" height="549" alt="Image" src="https://github.com/user-attachments/assets/f3df2117-cfba-4a5b-ab3f-517b5d61db22" />
+
