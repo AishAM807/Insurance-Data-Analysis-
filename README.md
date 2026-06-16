@@ -43,7 +43,7 @@ The goal of this project is to analyze insurance data and develop an interactive
 - Step 13: Loaded the Customer Feedback dataset and performed Sentiment Analysis to evaluate customer opinions, identify satisfaction trends, and gain actionable business insights.
 - Step 14: Created a new "Sentiment Score" column using Power Query's Text Analytics functionality to measure customer sentiment.
 - Step 15: Based on the calculated sentiment scores, a custom column was created to categorize customer feedback into three groups: Excellent, Good, and Needs Improvement.
-- - Step 16: Developed a third report view page incorporating a Word Cloud visual for customer feedback text analysis, a bar chart to represent the distribution of customers across feedback categories, and a detailed table view displaying customer names, sentiment scores, and complete feedback comments for comprehensive sentiment analysis.
+- Step 16: Developed a third report view page incorporating a Word Cloud visual for customer feedback text analysis, a bar chart to represent the distribution of customers across feedback categories, and a detailed table view displaying customer names, sentiment scores, and complete feedback comments for comprehensive sentiment analysis.
  
   # Report Snapshot (Power BI DESKTOP)
 
@@ -53,28 +53,28 @@ The goal of this project is to analyze insurance data and develop an interactive
 
 # Insights
 
-Total Customer Feedback Records: 97
-Excellent Feedback: 39 customers (40.2%)
-Good Feedback: 33 customers (34.0%)
-Needs Improvement Feedback: 25 customers (25.8%)
-Total Positive Feedback (Excellent + Good): 72 customers (74.2%)
-Customers Requiring Improvement: 25 customers (25.8%)
-Difference Between Positive and Negative Feedback: 47 customers
-Excellent Feedback Exceeds Good Feedback By: 6 customers
-Excellent Feedback Exceeds Needs Improvement By: 14 customers
-Positive-to-Improvement Feedback Ratio: 2.88: 1
-Nearly 3 out of every 4 customers (74.2%) reported a positive experience.
-Approximately 1 out of every 4 customers (25.8%) identified areas needing improvement.
-The largest feedback category is Excellent, representing 40.2% of all responses.
-The smallest feedback category is Needs Improvement, representing 25.8% of all responses.
-Customer satisfaction rate (Excellent + Good): 74.2%
-Customer improvement rate: 25.8%
+- Total Customer Feedback Records: 97
+- Excellent Feedback: 39 customers (40.2%)
+- Good Feedback: 33 customers (34.0%)
+- Needs Improvement Feedback: 25 customers (25.8%)
+- Total Positive Feedback (Excellent + Good): 72 customers (74.2%)
+- Customers Requiring Improvement: 25 customers (25.8%)
+- Difference Between Positive and Negative Feedback: 47 customers
+- Excellent Feedback Exceeds Good Feedback By: 6 customers
+- Excellent Feedback Exceeds Needs Improvement By: 14 customers
+- Positive-to-Improvement Feedback Ratio: 2.88: 1
+- Nearly 3 out of every 4 customers (74.2%) reported a positive experience.
+- Approximately 1 out of every 4 customers (25.8%) identified areas needing improvement.
+- The largest feedback category is Excellent, representing 40.2% of all responses.
+- The smallest feedback category is Needs Improvement, representing 25.8% of all responses.
+- Customer satisfaction rate (Excellent + Good): 74.2%
+- Customer improvement rate: 25.8%
 
 Executive Summary:
 
-97 customer feedback records were analyzed.
-72 customers (74.2%) provided positive feedback.
-39 customers (40.2%) rated their experience as Excellent.
-33 customers (34.0%) rated their experience as Good.
-25 customers (25.8%) indicated that improvements are needed.
+- 97 customer feedback records were analyzed.
+- 72 customers (74.2%) provided positive feedback.
+- 39 customers (40.2%) rated their experience as Excellent.
+- 33 customers (34.0%) rated their experience as Good.
+- 25 customers (25.8%) indicated that improvements are needed.
 Overall customer sentiment is predominantly positive, with nearly three times more positive responses than improvement-related feedback.
