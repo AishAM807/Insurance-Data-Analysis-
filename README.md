@@ -40,3 +40,9 @@ The goal of this project is to analyze insurance data and develop an interactive
 
 <img width="973" height="497" alt="Image" src="https://github.com/user-attachments/assets/0c4c9644-4b4f-46d3-a6ab-e477609cc816" />
 
+- Step 13: Loaded the Customer Feedback dataset and performed Sentiment Analysis to evaluate customer opinions, identify satisfaction trends, and gain actionable business insights.
+- Step 14: Created a new "Sentiment Score" column using Power Query's Text Analytics functionality to measure customer sentiment.
+- Step 15: Based on the calculated sentiment scores, a custom column was created to categorize customer feedback into three groups: Excellent, Good, and Needs Improvement.
+- - Step 16: Developed a third report view page incorporating a Word Cloud visual for customer feedback text analysis, a bar chart to represent the distribution of customers across feedback categories, and a detailed table view displaying customer names, sentiment scores, and complete feedback comments for comprehensive sentiment analysis.
+ 
+  # Report Snapshot (Power BI DESKTOP)
