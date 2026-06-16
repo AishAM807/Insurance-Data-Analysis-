@@ -48,3 +48,33 @@ The goal of this project is to analyze insurance data and develop an interactive
   # Report Snapshot (Power BI DESKTOP)
 
 <img width="1070" height="495" alt="Image" src="https://github.com/user-attachments/assets/13d5c3db-0f2d-4c18-ad4f-13709c6e9f99" />
+
+
+
+# Insights
+
+Total Customer Feedback Records: 97
+Excellent Feedback: 39 customers (40.2%)
+Good Feedback: 33 customers (34.0%)
+Needs Improvement Feedback: 25 customers (25.8%)
+Total Positive Feedback (Excellent + Good): 72 customers (74.2%)
+Customers Requiring Improvement: 25 customers (25.8%)
+Difference Between Positive and Negative Feedback: 47 customers
+Excellent Feedback Exceeds Good Feedback By: 6 customers
+Excellent Feedback Exceeds Needs Improvement By: 14 customers
+Positive-to-Improvement Feedback Ratio: 2.88: 1
+Nearly 3 out of every 4 customers (74.2%) reported a positive experience.
+Approximately 1 out of every 4 customers (25.8%) identified areas needing improvement.
+The largest feedback category is Excellent, representing 40.2% of all responses.
+The smallest feedback category is Needs Improvement, representing 25.8% of all responses.
+Customer satisfaction rate (Excellent + Good): 74.2%
+Customer improvement rate: 25.8%
+
+Executive Summary:
+
+97 customer feedback records were analyzed.
+72 customers (74.2%) provided positive feedback.
+39 customers (40.2%) rated their experience as Excellent.
+33 customers (34.0%) rated their experience as Good.
+25 customers (25.8%) indicated that improvements are needed.
+Overall customer sentiment is predominantly positive, with nearly three times more positive responses than improvement-related feedback.
