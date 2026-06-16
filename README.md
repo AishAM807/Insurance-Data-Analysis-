@@ -46,3 +46,5 @@ The goal of this project is to analyze insurance data and develop an interactive
 - - Step 16: Developed a third report view page incorporating a Word Cloud visual for customer feedback text analysis, a bar chart to represent the distribution of customers across feedback categories, and a detailed table view displaying customer names, sentiment scores, and complete feedback comments for comprehensive sentiment analysis.
  
   # Report Snapshot (Power BI DESKTOP)
+
+<img width="1070" height="495" alt="Image" src="https://github.com/user-attachments/assets/13d5c3db-0f2d-4c18-ad4f-13709c6e9f99" />
